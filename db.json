@@ -1,0 +1,58 @@
+{
+    "rootId": "1",
+    "nodes": [
+      {
+        "id": "1",
+        "childrenIds": [
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "2",
+        "childrenIds": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "3",
+        "childrenIds": [
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "4",
+        "childrenIds": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "5",
+        "automatableStatus": "FULL"
+      },
+      {
+        "id": "6",
+        "automatableStatus": "FULL"
+      },
+      {
+        "id": "7",
+        "automatableStatus": "PARTIAL"
+      },
+      {
+        "id": "8",
+        "automatableStatus": "NONE"
+      },
+      {
+        "id": "9",
+        "automatableStatus": "NONE"
+      },
+      {
+        "id": "10",
+        "automatableStatus": "NONE"
+      }
+    ]
+  }
